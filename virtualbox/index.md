@@ -18,7 +18,7 @@
 ![](../img/vb4.png)
 6.
 ![](../img/vb5.png)
-7.
+7. 點選是
 ![](../img/vb6.png)
 8.
 ![](../img/vb7.png)
