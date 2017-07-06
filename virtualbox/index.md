@@ -26,6 +26,6 @@
 ![](../img/vb8.png)
 10.
 ![](../img/vb9.png)
-11. 完成 VirtualBox 的安裝，可以開始匯入 VM 開發環境
+11. 完成 VirtualBox 的安裝，可以開始匯入 VM 開發環境
 [匯入 ova](../install/index.md)
 
